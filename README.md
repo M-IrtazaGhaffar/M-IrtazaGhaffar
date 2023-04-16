@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm Muhammad Irtaza Ghaffar</h1>
 <h3 align="center">A passionate Full Stack MERN Web Developer from Pakistani Community of Software Industry</h3>
 
+<br>
+<br>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 5px;">
 
