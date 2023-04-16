@@ -1,4 +1,5 @@
-[![MasterHead](https://th.bing.com/th/id/R.cb0d139e178018df8b3e778369395ac7?rik=tam9wwhz18lzeQ&pid=ImgRaw&r=0)]
+[![MasterHead](https://i.im.ge/2022/09/04/OcurPJ.Full-stack-web-developer-1.png)](https://ittidevelops.com)
+
 <h1 align="center">Hi 👋, I'm Muhammad Irtaza Ghaffar</h1>
 <h3 align="center">A passionate Full Stack MERN Web Developer from Pakistani Community of Software Industry</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="border-radius: 5px;">
