@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **irtazaghaffar@gmail.com**
 
-- 📄 Know about my experiences [http://bytewisecode.netlify.app](http://bytewisecode.netlify.app)
+- 📄 Know about my experiences? Here's my [Website](https://ittidevelops.com)
 
 - ⚡ Fun fact **I think I'm funny**
 
