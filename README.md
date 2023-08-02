@@ -1,5 +1,4 @@
-[![MasterHead](https://i.im.ge/2022/09/04/OcurPJ.Full-stack-web-developer-1.png)](https://ittidevelops.com)
-[![Website](https://ittidevelops.com/images/myimage2.jpeg)](https://yourwebsite.com)
+[![Website](https://ittidevelops.com/images/myimage2.jpeg)](https://ittidevelops.com)
 
 <h1 align="center">Hi 👋 I'm Muhammad Irtaza Ghaffar</h1>
 <h3 align="center">A passionate Full Stack MERN Web Developer from Pakistani Community of Software Industry</h3>
