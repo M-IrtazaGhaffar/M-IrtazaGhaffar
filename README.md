@@ -1,4 +1,4 @@
-[![Website](https://ittidevelops.com/images/myimage2.jpeg)](https://ittidevelops.com)
+Goto :: https://ittidevelops.com
 
 <h1 align="center">Hi 👋 I'm Muhammad Irtaza Ghaffar</h1>
 <h3 align="center">A passionate Full Stack MERN Web Developer from Pakistani Community of Software Industry</h3>
