@@ -35,12 +35,12 @@
 
 <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="360" style="border-radius:12px; margin-left:24px;"/>
 
-I'm a **Full Stack MERN Developer** with **3+ years of experience** building production-grade web applications. I currently run **[ITTI Develops](https://ittidevelops.com)** — a software agency based out of **Jhelum, Punjab, Pakistan** — where I lead a team and ship real products for real clients.
+I'm a **Full Stack MERN Developer** with **3+ years of experience** building production-grade web applications. I lead a team and ship real products for real clients.
 
 I'm a Computer Science student at **CUST Islamabad**, which means I live that double life of writing clean code during the day and debugging it at 2AM.
 
-- 🚀 &nbsp;Currently building a **Job Finder Application**
-- 🏢 &nbsp;CEO & Founder at **ITTI Develops**
+- 🚀 &nbsp;Currently building **Full Stack Applications**
+- 🏢 &nbsp;Full Stack Developer at **MomentumPakistan**
 - 🎓 &nbsp;CS @ **CUST Islamabad**
 - 🧠 &nbsp;Currently leveling up in **system design & scalable architecture**
 - 💬 &nbsp;Talk to me about **React, Node, Express, MongoDB, MySQL**
