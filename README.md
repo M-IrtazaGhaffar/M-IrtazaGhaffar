@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Muhammad%20Irtaza%20Ghaffar&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20%7C%20CEO%20%40%20ITTI%20Develops&descAlignY=58&descSize=16" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=130&section=header&text=Muhammad%20Irtaza%20Ghaffar&fontSize=32&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20MERN%20Developer%20&descAlignY=58&descSize=16" width="100%"/>
 </div>
 
 <br/>
@@ -9,9 +9,6 @@
     <img src="https://img.shields.io/badge/🌐 Portfolio-irtazaghaffar.vercel.app-58A6FF?style=for-the-badge&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://ittidevelops.com" target="_blank">
-    <img src="https://img.shields.io/badge/🏢 Agency-ittidevelops.com-302b63?style=for-the-badge&logoColor=white"/>
-  </a>
 </p>
 
 <p align="center">
